@@ -17,29 +17,6 @@ sidebar:
     website: anvido.github.io #do not add http://
     github: Anvido
 
-    Idiomas:
-      - idiom: Español
-        level: Nativo
-
-      - idiom: Ingles
-        level: Basico
-        
-    Intereses:
-      - item: Baloncesto
-        link:
-
-      - item: Programacion
-        link:
-
-      - item: Desarrolo de Software
-        link:
-
-      - item: Algoritmos
-        link:
-        
-      - item: Videojuegos
-        link:
-
 career-profile:
     title: Sobre mi
     summary: |
@@ -62,6 +39,34 @@ projects:
         link: "#"
         tagline: "Red social de videojuegos que ofrece un emparejamiento a los jugadores para encontrar otros jugadores basado en
         sus gustos, desarrollada en Ruby on Rails y React.. "
+        
+
+Idiomas:
+      - title: Idiomas
+      
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Ingles
+        level: Basico
+        
+Intereses:
+      - title: Intereses
+      
+      - item: Baloncesto
+        link:
+
+      - item: Programacion
+        link:
+
+      - item: Desarrolo de Software
+        link:
+
+      - item: Algoritmos
+        link:
+        
+      - item: Videojuegos
+        link:
 
 skills:
     title: Habilidades
