@@ -7,44 +7,35 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Andres Gonzalez
+    tagline: Estudiante
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    email: andrezo0896@gmail.com
+    phone: 310 310 5469
+    website: anvido.github.io #do not add http://
+    github: Anvido
 
-    languages:
-      - idiom: English
-        level: Native
+    Idiomas:
+      - idiom: Español
+        level: Nativo
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Ingles
+        level: Basico
         
-    interests:
-      - item: Climbing
+    Intereses:
+      - item: Baloncesto
         link:
 
-      - item: Snowboarding
+      - item: Programacion
         link:
 
-      - item: Cooking
+      - item: Videojuegos
         link:
 
 career-profile:
-    title: Career Profile
+    title: Sobre mi
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -54,37 +45,8 @@ career-profile:
 
       Second paragraph if required.
 
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -177,23 +139,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 60%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 65%
 
-      - name: Angular
-        level: 98%
+      - name: React
+        level: 65%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 65%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 50%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+        level: 70%
+        
+      - name: C++
+        level: 45%
+        
+      - name: Java
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
