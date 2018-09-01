@@ -16,6 +16,29 @@ sidebar:
     phone: 310 310 5469
     website: anvido.github.io #do not add http://
     github: Anvido
+    
+    languages:
+          - idiom: Español
+            level: Nativo
+
+          - idiom: Ingles
+            level: Basico
+
+    interests:
+          - item: Baloncesto
+            link:
+
+          - item: Programacion
+            link:
+
+          - item: Desarrolo de Software
+            link:
+
+          - item: Algoritmos
+            link:
+
+          - item: Videojuegos
+            link:
 
 career-profile:
     title: Sobre mi
@@ -38,35 +61,7 @@ projects:
       - title: SPairing
         link: "#"
         tagline: "Red social de videojuegos que ofrece un emparejamiento a los jugadores para encontrar otros jugadores basado en
-        sus gustos, desarrollada en Ruby on Rails y React.. "
-        
-
-Idiomas:
-      - title: Idiomas
-      
-      - idiom: Español
-        level: Nativo
-
-      - idiom: Ingles
-        level: Basico
-        
-Intereses:
-      - title: Intereses
-      
-      - item: Baloncesto
-        link:
-
-      - item: Programacion
-        link:
-
-      - item: Desarrolo de Software
-        link:
-
-      - item: Algoritmos
-        link:
-        
-      - item: Videojuegos
-        link:
+        sus gustos, desarrollada en Ruby on Rails y React.. 
 
 skills:
     title: Habilidades
