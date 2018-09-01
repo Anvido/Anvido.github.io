@@ -18,27 +18,27 @@ sidebar:
     github: Anvido
     
     languages:
-          - idiom: Español
-            level: Nativo
+      - idiom: Español
+        level: Nativo
 
-          - idiom: Ingles
-            level: Basico
-
+      - idiom: Ingles
+        level: Basico
+        
     interests:
-          - item: Baloncesto
-            link:
+      - item: Baloncesto
+        link:
 
-          - item: Programacion
-            link:
+      - item: Programacion
+        link:
 
-          - item: Desarrolo de Software
-            link:
+      - item: Desarrolo de Software
+        link:
 
-          - item: Algoritmos
-            link:
+      - item: Algoritmos
+        link:
 
-          - item: Videojuegos
-            link:
+      - item: Videojuegos
+        link:
 
 career-profile:
     title: Sobre mi
