@@ -60,7 +60,7 @@ projects:
           datos del clima y sugiere una ruta de la habitacion a la universidad."
 
       - title: SPairing
-        link: "#"
+        link:
         tagline: "Red social de videojuegos que ofrece un emparejamiento a los jugadores para encontrar otros jugadores basado en
         sus gustos, desarrollada en Ruby on Rails y React.. 
 
