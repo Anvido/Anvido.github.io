@@ -3,20 +3,20 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Andres Gonzalez
     tagline: Estudiante
     avatar: user.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+ 
     # Sidebar links
     email: andrezo0896@gmail.com
     phone: 310 310 5469
     website: anvido.github.io #do not add http://
     github: Anvido
-    
+        
     languages:
       - idiom: Español
         level: Nativo
@@ -40,17 +40,18 @@ sidebar:
       - item: Videojuegos
         link:
 
+
 career-profile:
     title: Sobre mi
-    summary: Soy un programador y estudiante de Ing de Sistemas de la Universidad Nacional de Colombia,
+    summary: |
+      Soy un programador y estudiante de Ing de Sistemas de la Universidad Nacional de Colombia,
       me interesa el desarrollo de software y algoritmos, poseo conocimientos basicos de gestión de Talento Humano,
-      disposición para el trabajo en equipo, capacidad para asumir responsabilidades y nuevos retos.
+      disposición para el trabajo en equipo, capacidad para asumir responsabilidades y nuevos retos.      
 
 projects:
     title: Proyectos
     intro: >
       
-
     assignments:
       - title: NYRent
         link: "#"
@@ -62,8 +63,8 @@ projects:
       - title: SPairing
         link: "#"
         tagline: "Red social de videojuegos que ofrece un emparejamiento a los jugadores para encontrar otros jugadores basado en
-        sus gustos, desarrollada en Ruby on Rails y React.. 
-
+        sus gustos, desarrollada en Ruby on Rails y React.. "
+        
 skills:
     title: Habilidades
 
@@ -91,6 +92,5 @@ skills:
         
       - name: Java
         level: 70%
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
