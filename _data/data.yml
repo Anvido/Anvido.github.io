@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Andres Gonzalez
@@ -43,7 +43,9 @@ sidebar:
 career-profile:
     title: Sobre mi
     summary: |
-      En progreso ...
+      Soy un programador y estudiante de Ing de Sistemas de la Universidad Nacional de Colombia,
+      me interesa el desarrollo de software y algoritmos, poseo conocimientos basicos de gestión de Talento Humano,
+      disposición para el trabajo en equipo, capacidad para asumir responsabilidades y nuevos retos.
 
 projects:
     title: Proyectos
