@@ -53,14 +53,14 @@ projects:
 
     assignments:
       - title: NYRent
-        link: 
+        link: "#"
         tagline: "Aplicación que
           presenta datos abiertos que facilita NY de forma interactiva con el fin de ayudar a los estudiantes a encontrar
           una habitacion o vivienta comoda, cercana y cerca de lugares culturales, ademas de esto presenta graficas sobre
           datos del clima y sugiere una ruta de la habitacion a la universidad."
 
       - title: SPairing
-        link:
+        link: "#"
         tagline: "Red social de videojuegos que ofrece un emparejamiento a los jugadores para encontrar otros jugadores basado en
         sus gustos, desarrollada en Ruby on Rails y React.. 
 
