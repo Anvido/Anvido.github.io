@@ -47,10 +47,10 @@ sidebar:
 career-profile:
     title: Objetivo
     summary: |
-      Mi propósito es desarrollar mi carrera profesional en el campo del desarrollo de software, tanto en Frontend como
-    en Backend, y por medio de esto adquirir un buen nivel de experticia en desarrollo. Me interesa poner en practica y
-    adquirir nuevo conocimiento en desarrollo web y móvil, así como participar y aprender en aplicaciones con servicios en
-    tiempo real o servicios de procesamiento complejo.     
+      Mi propósito es desarrollar mi carrera profesional en el campo del desarrollo de software, tanto en Frontend como 
+      en Backend, y por medio de esto adquirir un buen nivel de experticia en desarrollo. Me interesa poner en practica y 
+      adquirir nuevo conocimiento en desarrollo web y móvil, así como participar y aprender en aplicaciones con servicios en 
+      tiempo real o servicios de procesamiento complejo.     
 
 education:
     - degree: Ingeniería de Sistemas y Computación
@@ -62,7 +62,7 @@ experiences:
       time: Jun 2020 - Dic 2020
       company: Wopu Colombia
       details: |
-        Desarrollo de una aplicación web en el campo de la bolsa de empleos, usando Node.js y ReactJS como
+        Desarrollo de una aplicación web en el campo de la bolsa de empleos, usando Node.js y ReactJS como 
         tecnologías principales. Algunas funcionalidades como sistema de usuarios, autenticación, subida de archivos.
         
 skills:
