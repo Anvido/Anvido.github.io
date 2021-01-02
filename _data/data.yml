@@ -113,10 +113,10 @@ projects:
         tagline: "Red social de videojuegos que ofrece un emparejamiento a los jugadores para encontrar otros jugadores basado en
         sus gustos, desarrollada en Ruby on Rails y React.. "        
 
-awards:
-    title: Certificados y reconocimientos
-    item: UNAL Purdue Ironhacks, 2017
-    item: Curso de Introducción al Desarrollo Web: HTML y CSS, 2017
+#awards:
+    #title: Certificados y reconocimientos
+    #item: UNAL Purdue Ironhacks, 2017
+    #item: Curso de Introducción al Desarrollo Web: HTML y CSS, 2017
     
 
 footer: >
