@@ -50,7 +50,15 @@ career-profile:
       Mi propósito es desarrollar mi carrera profesional en el campo del desarrollo de software, tanto en Frontend como 
       en Backend, y por medio de esto adquirir un buen nivel de experticia en desarrollo. Me interesa poner en practica y 
       adquirir nuevo conocimiento en desarrollo web y móvil, así como participar y aprender en aplicaciones con servicios en 
-      tiempo real o servicios de procesamiento complejo.     
+      tiempo real o servicios de procesamiento complejo.    
+      
+career-profile:
+    title: Objetivo
+    summary: |
+      Mi propósito es desarrollar mi carrera profesional en el campo del desarrollo de software, tanto en Frontend como 
+      en Backend, y por medio de esto adquirir un buen nivel de experticia en desarrollo. Me interesa poner en practica y 
+      adquirir nuevo conocimiento en desarrollo web y móvil, así como participar y aprender en aplicaciones con servicios en 
+      tiempo real o servicios de procesamiento complejo.   
 
 education:
     - degree: Ingeniería de Sistemas y Computación
