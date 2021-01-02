@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Andrés David González Ortiz
+    name: Andrés González
     tagline: Desarrollador
     # avatar: user.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
  
@@ -25,9 +25,6 @@ sidebar:
         level: Intermedio
         
     interests:
-    #  - item: Baloncesto
-    #   link:
-
       - item: Programacion
         link:
 
@@ -52,14 +49,6 @@ career-profile:
       adquirir nuevo conocimiento en desarrollo web y móvil, así como participar y aprender en aplicaciones con servicios en 
       tiempo real o servicios de procesamiento complejo.    
       
-career-profile:
-    title: Objetivo
-    summary: |
-      Mi propósito es desarrollar mi carrera profesional en el campo del desarrollo de software, tanto en Frontend como 
-      en Backend, y por medio de esto adquirir un buen nivel de experticia en desarrollo. Me interesa poner en practica y 
-      adquirir nuevo conocimiento en desarrollo web y móvil, así como participar y aprender en aplicaciones con servicios en 
-      tiempo real o servicios de procesamiento complejo.   
-
 education:
     - degree: Ingeniería de Sistemas y Computación
       university: Universidad Nacional de Colombia
@@ -90,36 +79,30 @@ skills:
         level: 65%
 
       - name: ReactJS
-        level: 50%
+        level: 65%
 
       - name: Ruby on Rails
         level: 70%
         
       - name: Node.js
-        level: 45%
-        
-skills_2:
-    title: Habilidades
-    item: Dominio de Java, JavaScript, Python, HTML5, CSS3, ReactJS, Ruby on Rails y Node.js
-    item: Conocimiento de bases de datos relacionales y no relacionales, MySQL y MongoDB
-    item: Capacidad de trabajo en equipo
-        
-projects:
-    title: Proyectos
-    intro: >
+        level: 50%
+          
+#projects:
+#    title: Proyectos
+#    intro: >
       
-    assignments:
-      - title: NYRent
-        link: "#"
-        tagline: "Aplicación que
-          presenta datos abiertos que facilita NY de forma interactiva con el fin de ayudar a los estudiantes a encontrar
-          una habitacion o vivienta comoda, cercana y cerca de lugares culturales, ademas de esto presenta graficas sobre
-          datos del clima y sugiere una ruta de la habitacion a la universidad."
+#    assignments:
+#      - title: NYRent
+#        link: "#"
+#        tagline: "Aplicación que
+#          presenta datos abiertos que facilita NY de forma interactiva con el fin de ayudar a los estudiantes a encontrar
+#          una habitacion o vivienta comoda, cercana y cerca de lugares culturales, ademas de esto presenta graficas sobre
+#          datos del clima y sugiere una ruta de la habitacion a la universidad."
 
-      - title: SPairing
-        link: "#"
-        tagline: "Red social de videojuegos que ofrece un emparejamiento a los jugadores para encontrar otros jugadores basado en
-        sus gustos, desarrollada en Ruby on Rails y React.. "        
+#      - title: SPairing
+#        link: "#"
+#        tagline: "Red social de videojuegos que ofrece un emparejamiento a los jugadores para encontrar otros jugadores basado en
+#        sus gustos, desarrollada en Ruby on Rails y React.. "        
 
 #awards:
     #title: Certificados y reconocimientos
