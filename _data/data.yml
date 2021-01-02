@@ -4,15 +4,15 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Andres Gonzalez
-    tagline: Estudiante
-    avatar: user.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Andrés David González Ortiz
+    tagline: Desarrollador
+    # avatar: user.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
  
     # Sidebar links
-    email: andrezo0896@gmail.com
+    email: andresgo.dev@gmail.com
     phone: 310 310 5469
     website: anvido.github.io #do not add http://
     github: Anvido
@@ -22,32 +22,80 @@ sidebar:
         level: Nativo
 
       - idiom: Ingles
-        level: Basico
+        level: Intermedio
         
     interests:
-      - item: Baloncesto
-        link:
+    #  - item: Baloncesto
+    #   link:
 
       - item: Programacion
         link:
 
       - item: Desarrolo de Software
         link:
-
-      - item: Algoritmos
+        
+      - item: Desarrolo web
         link:
 
-      - item: Videojuegos
+      - item: Solución de problemas Algoritmos
+        link:
+
+      - item: Desarrollo de Videojuegos
         link:
 
 
 career-profile:
-    title: Sobre mi
+    title: Objetivo
     summary: |
-      Soy un programador y estudiante de Ing de Sistemas de la Universidad Nacional de Colombia,
-      me interesa el desarrollo de software y algoritmos, poseo conocimientos basicos de gestión de Talento Humano,
-      disposición para el trabajo en equipo, capacidad para asumir responsabilidades y nuevos retos.      
+      Mi propósito es desarrollar mi carrera profesional en el campo del desarrollo de software, tanto en Frontend como
+    en Backend, y por medio de esto adquirir un buen nivel de experticia en desarrollo. Me interesa poner en practica y
+    adquirir nuevo conocimiento en desarrollo web y móvil, así como participar y aprender en aplicaciones con servicios en
+    tiempo real o servicios de procesamiento complejo.     
 
+education:
+    - degree: Ingeniería de Sistemas y Computación
+      university: Universidad Nacional de Colombia
+      time: Jun 2014 - Dic 2020
+      
+experiences:
+    - role: Desarrollador Freelance
+      time: Jun 2020 - Dic 2020
+      company: Wopu Colombia
+      details: |
+        Desarrollo de una aplicación web en el campo de la bolsa de empleos, usando Node.js y ReactJS como
+        tecnologías principales. Algunas funcionalidades como sistema de usuarios, autenticación, subida de archivos.
+        
+skills:
+    title: Habilidades
+
+    toolset:
+      - name: Java 
+        level: 60%
+
+      - name: Javascript
+        level: 65%
+
+      - name: Python
+        level: 65%
+
+      - name: HTML5 & CSS
+        level: 65%
+
+      - name: ReactJS
+        level: 50%
+
+      - name: Ruby on Rails
+        level: 70%
+        
+      - name: Node.js
+        level: 45%
+        
+skills_2:
+    title: Habilidades
+    item: Dominio de Java, JavaScript, Python, HTML5, CSS3, ReactJS, Ruby on Rails y Node.js
+    item: Conocimiento de bases de datos relacionales y no relacionales, MySQL y MongoDB
+    item: Capacidad de trabajo en equipo
+        
 projects:
     title: Proyectos
     intro: >
@@ -63,34 +111,13 @@ projects:
       - title: SPairing
         link: "#"
         tagline: "Red social de videojuegos que ofrece un emparejamiento a los jugadores para encontrar otros jugadores basado en
-        sus gustos, desarrollada en Ruby on Rails y React.. "
-        
-skills:
-    title: Habilidades
+        sus gustos, desarrollada en Ruby on Rails y React.. "        
 
-    toolset:
-      - name: Python 
-        level: 60%
+awards:
+    title: Certificados y reconocimientos
+    item: UNAL Purdue Ironhacks, 2017
+    item: Curso de Introducción al Desarrollo Web: HTML y CSS, 2017
+    
 
-      - name: Javascript
-        level: 65%
-
-      - name: React
-        level: 65%
-
-      - name: HTML5 & CSS
-        level: 65%
-
-      - name: Ruby on Rails
-        level: 50%
-
-      - name: Java
-        level: 70%
-        
-      - name: C++
-        level: 45%
-        
-      - name: Java
-        level: 70%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
