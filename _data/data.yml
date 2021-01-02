@@ -50,11 +50,13 @@ career-profile:
       tiempo real o servicios de procesamiento complejo.    
       
 education:
+    title: Educación
     - degree: Ingeniería de Sistemas y Computación
       university: Universidad Nacional de Colombia
       time: Jun 2014 - Dic 2020
       
 experiences:
+    title: Experiencia laboral
     - role: Desarrollador Freelance
       time: Jun 2020 - Dic 2020
       company: Wopu Colombia
